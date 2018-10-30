@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "afterDelay",
+    "breadcrumbs.enabled": true,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "workbench.sideBar.location": "right",
+    "github.hosts": [
+        {
+            "host": "https://github.com",
+            "username": "oauth",
+            "token": "system"
+        }
+    ],
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c11",
+    "python.linting.pylintPath": "/usr/local/bin/pylint",
+    "terminal.integrated.rendererType": "dom",
+    "C_Cpp.intelliSenseEngine": "Default"
+}
